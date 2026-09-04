@@ -1,0 +1,12 @@
+# Ignore dependencies
+node_modules/
+
+# Ignore build outputs
+dist/
+out/
+
+# Ignore logs
+*.log
+
+# Ignore TypeScript build info
+*.tsbuildinfo
